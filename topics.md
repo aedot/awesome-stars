@@ -12,10 +12,12 @@
 - [docker](#docker)
 - [home-assistant](#home-assistant)
 - [kubernetes](#kubernetes)
+- [linux](#linux)
 - [open-source](#open-source)
 - [others](#others)
 - [self-hosted](#self-hosted)
 - [software](#software)
+- [windows](#windows)
 
 ## ansible 
 
@@ -46,6 +48,10 @@
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [tscibilia/home-ops](https://github.com/tscibilia/home-ops) - Wife-tolerated HomeOps driven by Kubernetes and Gitops via Flux c/o onedr0p's template.
 
+## linux 
+
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
 ## open-source 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -67,6 +73,10 @@
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## windows 
+
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
 
 ## License
