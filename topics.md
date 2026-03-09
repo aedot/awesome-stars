@@ -61,9 +61,6 @@
 - [rcdailey/home-ops](https://github.com/rcdailey/home-ops) - Kubernetes homelab managed with Flux GitOps
 - [sandreas/tone](https://github.com/sandreas/tone) - tone is a cross platform audio tagger and metadata editor to dump and modify metadata for a wide variety of formats, including mp3, m4b, flac and more. It has no dependencies and can be downloaded as 
 - [Neurrone/beets-audible](https://github.com/Neurrone/beets-audible) - Organize Your Audiobook Collection With Beets
-- [mylinuxforwork/wallpaper](https://github.com/mylinuxforwork/wallpaper) - My personal collection of wallpapers. Works great on all desktop environments.
-- [sidpalas/devops-directive-kubernetes-course](https://github.com/sidpalas/devops-directive-kubernetes-course) - This is the companion repo for the DevOps Directive "Kubernetes: Beginner to Pro" course!
-- [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [nopeslide/drawio_mermaid_plugin](https://github.com/nopeslide/drawio_mermaid_plugin) - Mermaid plugin for drawio desktop
 
 ## self-hosted 
