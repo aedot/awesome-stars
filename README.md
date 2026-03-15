@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [JavaScript](#javascript)
 - [Python](#python)
+- [Rust](#rust)
 - [Shell](#shell)
 - [YAML](#yaml)
 
@@ -30,6 +31,10 @@
 - [johnkoht/hassio-config](https://github.com/johnkoht/hassio-config) - My Home Assistant Custom Configuration
 - [Neurrone/beets-audible](https://github.com/Neurrone/beets-audible) - Organize Your Audiobook Collection With Beets
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## Rust 
+
+- [typester/yashiki](https://github.com/typester/yashiki) - macOS tiling window manager
 
 ## Shell 
 
