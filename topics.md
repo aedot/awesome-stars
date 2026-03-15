@@ -58,6 +58,7 @@
 
 ## others 
 
+- [typester/yashiki](https://github.com/typester/yashiki) - macOS tiling window manager
 - [rcdailey/home-ops](https://github.com/rcdailey/home-ops) - Kubernetes homelab managed with Flux GitOps
 - [sandreas/tone](https://github.com/sandreas/tone) - tone is a cross platform audio tagger and metadata editor to dump and modify metadata for a wide variety of formats, including mp3, m4b, flac and more. It has no dependencies and can be downloaded as 
 - [Neurrone/beets-audible](https://github.com/Neurrone/beets-audible) - Organize Your Audiobook Collection With Beets
