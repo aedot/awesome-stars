@@ -27,6 +27,7 @@
 
 ## Python 
 
+- [AndrewX192/lenovo-sa120-fanspeed-utility](https://github.com/AndrewX192/lenovo-sa120-fanspeed-utility) - 
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [johnkoht/hassio-config](https://github.com/johnkoht/hassio-config) - My Home Assistant Custom Configuration
 - [Neurrone/beets-audible](https://github.com/Neurrone/beets-audible) - Organize Your Audiobook Collection With Beets
@@ -43,6 +44,7 @@
 
 ## YAML 
 
+- [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [rcdailey/home-ops](https://github.com/rcdailey/home-ops) - Kubernetes homelab managed with Flux GitOps
 - [tscibilia/home-ops](https://github.com/tscibilia/home-ops) - Wife-tolerated HomeOps driven by Kubernetes and Gitops via Flux c/o onedr0p's template.
 
