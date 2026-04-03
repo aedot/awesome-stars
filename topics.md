@@ -17,6 +17,7 @@
 - [others](#others)
 - [self-hosted](#self-hosted)
 - [software](#software)
+- [terraform](#terraform)
 - [windows](#windows)
 
 ## ansible 
@@ -45,6 +46,7 @@
 
 ## kubernetes 
 
+- [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [tscibilia/home-ops](https://github.com/tscibilia/home-ops) - Wife-tolerated HomeOps driven by Kubernetes and Gitops via Flux c/o onedr0p's template.
 
@@ -58,6 +60,7 @@
 
 ## others 
 
+- [AndrewX192/lenovo-sa120-fanspeed-utility](https://github.com/AndrewX192/lenovo-sa120-fanspeed-utility) - 
 - [typester/yashiki](https://github.com/typester/yashiki) - macOS tiling window manager
 - [rcdailey/home-ops](https://github.com/rcdailey/home-ops) - Kubernetes homelab managed with Flux GitOps
 - [sandreas/tone](https://github.com/sandreas/tone) - tone is a cross platform audio tagger and metadata editor to dump and modify metadata for a wide variety of formats, including mp3, m4b, flac and more. It has no dependencies and can be downloaded as 
@@ -66,11 +69,16 @@
 
 ## self-hosted 
 
+- [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## terraform 
+
+- [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 
 ## windows 
 
