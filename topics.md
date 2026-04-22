@@ -5,20 +5,29 @@
 
 ## Contents
 
+- [ai-agents](#ai-agents)
 - [ansible](#ansible)
 - [api](#api)
 - [bash](#bash)
+- [cli](#cli)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [docker](#docker)
+- [git](#git)
 - [home-assistant](#home-assistant)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
 - [open-source](#open-source)
 - [others](#others)
+- [rust](#rust)
 - [self-hosted](#self-hosted)
 - [software](#software)
 - [terraform](#terraform)
 - [windows](#windows)
+
+## ai-agents 
+
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 
 ## ansible 
 
@@ -32,6 +41,14 @@
 
 - [WhiskeyTang0F0xtr0t/unifi](https://github.com/WhiskeyTang0F0xtr0t/unifi) - Random stuff for unifi devices.
 
+## cli 
+
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+
+## developer-tools 
+
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+
 ## development 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -39,6 +56,10 @@
 ## docker 
 
 - [seanap/auto-m4b](https://github.com/seanap/auto-m4b) - Docker container that watches a folder for multi-file mp3 books and converts them to a chapterized m4b.
+
+## git 
+
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 
 ## home-assistant 
 
@@ -66,6 +87,10 @@
 - [sandreas/tone](https://github.com/sandreas/tone) - tone is a cross platform audio tagger and metadata editor to dump and modify metadata for a wide variety of formats, including mp3, m4b, flac and more. It has no dependencies and can be downloaded as 
 - [Neurrone/beets-audible](https://github.com/Neurrone/beets-audible) - Organize Your Audiobook Collection With Beets
 - [nopeslide/drawio_mermaid_plugin](https://github.com/nopeslide/drawio_mermaid_plugin) - Mermaid plugin for drawio desktop
+
+## rust 
+
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 
 ## self-hosted 
 
