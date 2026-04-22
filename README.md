@@ -35,6 +35,7 @@
 
 ## Rust 
 
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [typester/yashiki](https://github.com/typester/yashiki) - macOS tiling window manager
 
 ## Shell 
