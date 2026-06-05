@@ -12,6 +12,7 @@
 - [cli](#cli)
 - [developer-tools](#developer-tools)
 - [development](#development)
+- [django](#django)
 - [docker](#docker)
 - [git](#git)
 - [home-assistant](#home-assistant)
@@ -19,6 +20,7 @@
 - [linux](#linux)
 - [open-source](#open-source)
 - [others](#others)
+- [python](#python)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [software](#software)
@@ -52,6 +54,10 @@
 ## development 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## django 
+
+- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 
 ## docker 
 
@@ -88,12 +94,17 @@
 - [Neurrone/beets-audible](https://github.com/Neurrone/beets-audible) - Organize Your Audiobook Collection With Beets
 - [nopeslide/drawio_mermaid_plugin](https://github.com/nopeslide/drawio_mermaid_plugin) - Mermaid plugin for drawio desktop
 
+## python 
+
+- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
+
 ## rust 
 
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 
 ## self-hosted 
 
+- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 
