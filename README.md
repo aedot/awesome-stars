@@ -8,6 +8,7 @@
 - [C](#c)
 - [C#](#c#)
 - [JavaScript](#javascript)
+- [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -24,6 +25,10 @@
 ## JavaScript 
 
 - [nopeslide/drawio_mermaid_plugin](https://github.com/nopeslide/drawio_mermaid_plugin) - Mermaid plugin for drawio desktop
+
+## Others 
+
+- [jeroenterheerdt/Baby-Buddy-Keypad](https://github.com/jeroenterheerdt/Baby-Buddy-Keypad) - 
 
 ## Python 
 
