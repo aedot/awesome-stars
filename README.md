@@ -8,6 +8,7 @@
 - [C](#c)
 - [C#](#c#)
 - [JavaScript](#javascript)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -25,6 +26,10 @@
 ## JavaScript 
 
 - [nopeslide/drawio_mermaid_plugin](https://github.com/nopeslide/drawio_mermaid_plugin) - Mermaid plugin for drawio desktop
+
+## OpenSCAD 
+
+- [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
 ## Others 
 
