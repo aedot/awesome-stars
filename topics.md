@@ -99,6 +99,7 @@
 
 ## others 
 
+- [MatixYo/ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar) - Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.
 - [jeroenterheerdt/Baby-Buddy-Keypad](https://github.com/jeroenterheerdt/Baby-Buddy-Keypad) - 
 - [AndrewX192/lenovo-sa120-fanspeed-utility](https://github.com/AndrewX192/lenovo-sa120-fanspeed-utility) - 
 - [typester/yashiki](https://github.com/typester/yashiki) - macOS tiling window manager
