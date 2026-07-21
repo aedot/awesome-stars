@@ -6,7 +6,6 @@
 ## Contents
 
 - [ai-agents](#ai-agents)
-- [ansible](#ansible)
 - [api](#api)
 - [bash](#bash)
 - [cli](#cli)
@@ -27,16 +26,11 @@
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [software](#software)
-- [terraform](#terraform)
 - [windows](#windows)
 
 ## ai-agents 
 
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-
-## ansible 
-
-- [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 
 ## api 
 
@@ -85,9 +79,7 @@
 
 ## kubernetes 
 
-- [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
-- [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
-- [tscibilia/home-ops](https://github.com/tscibilia/home-ops) - Wife-tolerated HomeOps driven by Kubernetes and Gitops via Flux c/o onedr0p's template.
+- [aedot/k8s-gitops](https://github.com/aedot/k8s-gitops) - Wife tolerated HomeOps driven by Kubernetes and GitOps using Flux
 
 ## linux 
 
@@ -103,7 +95,6 @@
 - [jeroenterheerdt/Baby-Buddy-Keypad](https://github.com/jeroenterheerdt/Baby-Buddy-Keypad) - 
 - [AndrewX192/lenovo-sa120-fanspeed-utility](https://github.com/AndrewX192/lenovo-sa120-fanspeed-utility) - 
 - [typester/yashiki](https://github.com/typester/yashiki) - macOS tiling window manager
-- [rcdailey/home-ops](https://github.com/rcdailey/home-ops) - Kubernetes homelab managed with Flux GitOps
 - [sandreas/tone](https://github.com/sandreas/tone) - tone is a cross platform audio tagger and metadata editor to dump and modify metadata for a wide variety of formats, including mp3, m4b, flac and more. It has no dependencies and can be downloaded as 
 - [Neurrone/beets-audible](https://github.com/Neurrone/beets-audible) - Organize Your Audiobook Collection With Beets
 - [nopeslide/drawio_mermaid_plugin](https://github.com/nopeslide/drawio_mermaid_plugin) - Mermaid plugin for drawio desktop
@@ -124,16 +115,10 @@
 
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
-- [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
-- [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-## terraform 
-
-- [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 
 ## windows 
 
