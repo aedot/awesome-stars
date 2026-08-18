@@ -11,9 +11,9 @@
 - [cli](#cli)
 - [developer-tools](#developer-tools)
 - [development](#development)
-- [django](#django)
 - [docker](#docker)
 - [esp32](#esp32)
+- [fastapi](#fastapi)
 - [git](#git)
 - [home-assistant](#home-assistant)
 - [iot](#iot)
@@ -22,10 +22,10 @@
 - [open-source](#open-source)
 - [others](#others)
 - [postgresql](#postgresql)
-- [python](#python)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [software](#software)
+- [sqlite](#sqlite)
 - [windows](#windows)
 
 ## ai-agents 
@@ -52,17 +52,19 @@
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
-## django 
-
-- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
-
 ## docker 
 
+- [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [seanap/auto-m4b](https://github.com/seanap/auto-m4b) - Docker container that watches a folder for multi-file mp3 books and converts them to a chapterized m4b.
 
 ## esp32 
 
+- [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
+
+## fastapi 
+
+- [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 
 ## git 
 
@@ -70,11 +72,13 @@
 
 ## home-assistant 
 
+- [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 - [johnkoht/hassio-config](https://github.com/johnkoht/hassio-config) - My Home Assistant Custom Configuration
 
 ## iot 
 
+- [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
 ## kubernetes 
@@ -92,7 +96,6 @@
 ## others 
 
 - [MatixYo/ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar) - Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.
-- [jeroenterheerdt/Baby-Buddy-Keypad](https://github.com/jeroenterheerdt/Baby-Buddy-Keypad) - 
 - [AndrewX192/lenovo-sa120-fanspeed-utility](https://github.com/AndrewX192/lenovo-sa120-fanspeed-utility) - 
 - [typester/yashiki](https://github.com/typester/yashiki) - macOS tiling window manager
 - [sandreas/tone](https://github.com/sandreas/tone) - tone is a cross platform audio tagger and metadata editor to dump and modify metadata for a wide variety of formats, including mp3, m4b, flac and more. It has no dependencies and can be downloaded as 
@@ -103,22 +106,22 @@
 
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
-## python 
-
-- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
-
 ## rust 
 
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 
 ## self-hosted 
 
+- [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
-- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## sqlite 
+
+- [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 
 ## windows 
 
