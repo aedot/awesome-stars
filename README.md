@@ -10,7 +10,6 @@
 - [C++](#c++)
 - [JavaScript](#javascript)
 - [OpenSCAD](#openscad)
-- [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -36,13 +35,9 @@
 
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
-## Others 
-
-- [jeroenterheerdt/Baby-Buddy-Keypad](https://github.com/jeroenterheerdt/Baby-Buddy-Keypad) - 
-
 ## Python 
 
-- [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
+- [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [AndrewX192/lenovo-sa120-fanspeed-utility](https://github.com/AndrewX192/lenovo-sa120-fanspeed-utility) - 
 - [johnkoht/hassio-config](https://github.com/johnkoht/hassio-config) - My Home Assistant Custom Configuration
 - [Neurrone/beets-audible](https://github.com/Neurrone/beets-audible) - Organize Your Audiobook Collection With Beets
