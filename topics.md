@@ -83,7 +83,7 @@
 
 ## kubernetes 
 
-- [aedot/k8s-gitops](https://github.com/aedot/k8s-gitops) - Wife tolerated HomeOps driven by Kubernetes and GitOps using Flux
+- [aedot/home-ops](https://github.com/aedot/home-ops) - Wife tolerated HomeOps driven by Kubernetes and GitOps using Flux
 
 ## linux 
 
