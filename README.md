@@ -37,6 +37,8 @@
 
 ## Python 
 
+- [JamesRy96/audiobookbay-automated](https://github.com/JamesRy96/audiobookbay-automated) - Adds torrents from AudioBookBay to a torrent client and set the download location.
+- [markbeep/AudioBookRequest](https://github.com/markbeep/AudioBookRequest) - Minimal and lightweight audiobook request management/wishlist for Plex/Audiobookshelf/Jellyfin
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [AndrewX192/lenovo-sa120-fanspeed-utility](https://github.com/AndrewX192/lenovo-sa120-fanspeed-utility) - 
 - [johnkoht/hassio-config](https://github.com/johnkoht/hassio-config) - My Home Assistant Custom Configuration
