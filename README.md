@@ -25,6 +25,7 @@
 
 ## C++ 
 
+- [DerekSeaman/irk-capture](https://github.com/DerekSeaman/irk-capture) - An ESPHome package to capture Apple and Android Bluetooth IRKs
 - [MatixYo/ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar) - Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.
 
 ## JavaScript 
@@ -37,6 +38,7 @@
 
 ## Python 
 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
 - [JamesRy96/audiobookbay-automated](https://github.com/JamesRy96/audiobookbay-automated) - Adds torrents from AudioBookBay to a torrent client and set the download location.
 - [markbeep/AudioBookRequest](https://github.com/markbeep/AudioBookRequest) - Minimal and lightweight audiobook request management/wishlist for Plex/Audiobookshelf/Jellyfin
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
