@@ -10,6 +10,7 @@
 - [bash](#bash)
 - [claude](#claude)
 - [cli](#cli)
+- [command-line](#command-line)
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [docker](#docker)
@@ -20,13 +21,18 @@
 - [iot](#iot)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
+- [mac](#mac)
+- [macos](#macos)
 - [open-source](#open-source)
 - [others](#others)
 - [postgresql](#postgresql)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
+- [shell](#shell)
 - [software](#software)
 - [sqlite](#sqlite)
+- [swift](#swift)
+- [swiftui](#swiftui)
 - [windows](#windows)
 
 ## ai-agents 
@@ -48,6 +54,10 @@
 ## cli 
 
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+
+## command-line 
+
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 
 ## developer-tools 
 
@@ -97,8 +107,17 @@
 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
+## mac 
+
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+
+## macos 
+
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+
 ## open-source 
 
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## others 
@@ -126,6 +145,10 @@
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
+## shell 
+
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -133,6 +156,15 @@
 ## sqlite 
 
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
+
+## swift 
+
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+
+## swiftui 
+
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 
 ## windows 
 
