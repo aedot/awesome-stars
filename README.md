@@ -8,6 +8,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [HLSL](#hlsl)
 - [JavaScript](#javascript)
 - [OpenSCAD](#openscad)
 - [Python](#python)
@@ -22,12 +23,17 @@
 
 ## C# # 
 
+- [ResetXPDR/MSFS_AutoFPS](https://github.com/ResetXPDR/MSFS_AutoFPS) - MSFS2020_AutoFPS updated to support both MSFS 2020 and 2024
 - [sandreas/tone](https://github.com/sandreas/tone) - tone is a cross platform audio tagger and metadata editor to dump and modify metadata for a wide variety of formats, including mp3, m4b, flac and more. It has no dependencies and can be downloaded as 
 
 ## C++ 
 
 - [DerekSeaman/irk-capture](https://github.com/DerekSeaman/irk-capture) - An ESPHome package to capture Apple and Android Bluetooth IRKs
 - [MatixYo/ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar) - Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.
+
+## HLSL 
+
+- [Samueleonard/AIG-ModelMatching-For-MSFS2024](https://github.com/Samueleonard/AIG-ModelMatching-For-MSFS2024) - Latest version of AIG modelmatching for MSFS2024
 
 ## JavaScript 
 
