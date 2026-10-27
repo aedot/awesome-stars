@@ -38,11 +38,11 @@
 
 ## 3d 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it in your browser: padspan.traks.ca/demo
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
 
 ## ai-agents 
 
-- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
 
 ## api 
 
@@ -54,11 +54,11 @@
 
 ## claude 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it in your browser: padspan.traks.ca/demo
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
 
 ## cli 
 
-- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
 
 ## command-line 
 
@@ -66,7 +66,7 @@
 
 ## developer-tools 
 
-- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
 
 ## development 
 
@@ -79,7 +79,7 @@
 
 ## esp32 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it in your browser: padspan.traks.ca/demo
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
@@ -89,18 +89,18 @@
 
 ## git 
 
-- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
 
 ## home-assistant 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it in your browser: padspan.traks.ca/demo
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 - [johnkoht/hassio-config](https://github.com/johnkoht/hassio-config) - My Home Assistant Custom Configuration
 
 ## iot 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it in your browser: padspan.traks.ca/demo
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
@@ -145,7 +145,7 @@
 
 ## rust 
 
-- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
 
 ## self-hosted 
 
