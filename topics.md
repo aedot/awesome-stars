@@ -9,7 +9,6 @@
 - [ai-agents](#ai-agents)
 - [api](#api)
 - [bash](#bash)
-- [claude](#claude)
 - [cli](#cli)
 - [command-line](#command-line)
 - [developer-tools](#developer-tools)
@@ -38,7 +37,7 @@
 
 ## 3d 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 
 ## ai-agents 
 
@@ -51,10 +50,6 @@
 ## bash 
 
 - [WhiskeyTang0F0xtr0t/unifi](https://github.com/WhiskeyTang0F0xtr0t/unifi) - Random stuff for unifi devices.
-
-## claude 
-
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
 
 ## cli 
 
@@ -79,7 +74,7 @@
 
 ## esp32 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
@@ -93,14 +88,13 @@
 
 ## home-assistant 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 - [johnkoht/hassio-config](https://github.com/johnkoht/hassio-config) - My Home Assistant Custom Configuration
 
 ## iot 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
