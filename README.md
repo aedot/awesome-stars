@@ -37,7 +37,7 @@
 
 ## JavaScript 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 - [johnkoht/hassio-config](https://github.com/johnkoht/hassio-config) - My Home Assistant Custom Configuration
 - [nopeslide/drawio_mermaid_plugin](https://github.com/nopeslide/drawio_mermaid_plugin) - Mermaid plugin for drawio desktop
 
