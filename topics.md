@@ -14,6 +14,7 @@
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [docker](#docker)
+- [dsh-plugin](#dsh-plugin)
 - [esp32](#esp32)
 - [fastapi](#fastapi)
 - [git](#git)
@@ -32,7 +33,6 @@
 - [software](#software)
 - [sqlite](#sqlite)
 - [swift](#swift)
-- [swiftui](#swiftui)
 - [windows](#windows)
 
 ## 3d 
@@ -71,6 +71,10 @@
 
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [seanap/auto-m4b](https://github.com/seanap/auto-m4b) - Docker container that watches a folder for multi-file mp3 books and converts them to a chapterized m4b.
+
+## dsh-plugin 
+
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 
 ## esp32 
 
@@ -160,12 +164,7 @@
 
 ## swift 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
-
-## swiftui 
-
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 
 ## windows 
 
