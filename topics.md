@@ -22,7 +22,6 @@
 - [iot](#iot)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
-- [mac](#mac)
 - [macos](#macos)
 - [open-source](#open-source)
 - [others](#others)
@@ -109,10 +108,6 @@
 ## linux 
 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-## mac 
-
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 
 ## macos 
 
