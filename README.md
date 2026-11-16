@@ -67,6 +67,7 @@
 
 ## Swift 
 
+- [ryanbr/noop](https://github.com/ryanbr/noop) - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 
 ## YAML 
