@@ -120,6 +120,7 @@
 
 ## others 
 
+- [ryanbr/noop](https://github.com/ryanbr/noop) - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
 - [Samueleonard/AIG-ModelMatching-For-MSFS2024](https://github.com/Samueleonard/AIG-ModelMatching-For-MSFS2024) - Latest version of AIG modelmatching for MSFS2024
 - [ResetXPDR/MSFS_AutoFPS](https://github.com/ResetXPDR/MSFS_AutoFPS) - MSFS2020_AutoFPS updated to support both MSFS 2020 and 2024
 - [DerekSeaman/irk-capture](https://github.com/DerekSeaman/irk-capture) - An ESPHome package to capture Apple and Android Bluetooth IRKs
