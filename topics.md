@@ -26,12 +26,14 @@
 - [open-source](#open-source)
 - [others](#others)
 - [postgresql](#postgresql)
+- [pwa](#pwa)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [software](#software)
 - [sqlite](#sqlite)
 - [swift](#swift)
+- [typescript](#typescript)
 - [windows](#windows)
 
 ## 3d 
@@ -137,6 +139,10 @@
 
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
+## pwa 
+
+- [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
+
 ## rust 
 
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
@@ -161,6 +167,10 @@
 ## swift 
 
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+
+## typescript 
+
+- [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 
 ## windows 
 
