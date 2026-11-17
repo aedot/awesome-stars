@@ -15,6 +15,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
+- [TypeScript](#typescript)
 - [YAML](#yaml)
 
 ## C 
@@ -69,6 +70,10 @@
 
 - [ryanbr/noop](https://github.com/ryanbr/noop) - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+
+## TypeScript 
+
+- [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 
 ## YAML 
 
