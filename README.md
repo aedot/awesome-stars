@@ -11,6 +11,7 @@
 - [HLSL](#hlsl)
 - [JavaScript](#javascript)
 - [OpenSCAD](#openscad)
+- [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -24,7 +25,6 @@
 
 ## C# # 
 
-- [ResetXPDR/MSFS_AutoFPS](https://github.com/ResetXPDR/MSFS_AutoFPS) - MSFS2020_AutoFPS updated to support both MSFS 2020 and 2024
 - [sandreas/tone](https://github.com/sandreas/tone) - tone is a cross platform audio tagger and metadata editor to dump and modify metadata for a wide variety of formats, including mp3, m4b, flac and more. It has no dependencies and can be downloaded as 
 
 ## C++ 
@@ -38,15 +38,19 @@
 
 ## JavaScript 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 - [nopeslide/drawio_mermaid_plugin](https://github.com/nopeslide/drawio_mermaid_plugin) - Mermaid plugin for drawio desktop
 
 ## OpenSCAD 
 
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
+## Others 
+
+- [ResetXPDR/MSFS_AutoFPS](https://github.com/ResetXPDR/MSFS_AutoFPS) - MSFS2020_AutoFPS updated to support both MSFS 2020 and 2024
+
 ## Python 
 
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth 
 - [JamesRy96/audiobookbay-automated](https://github.com/JamesRy96/audiobookbay-automated) - Adds torrents from AudioBookBay to a torrent client and set the download location.
 - [markbeep/AudioBookRequest](https://github.com/markbeep/AudioBookRequest) - Minimal and lightweight audiobook request management/wishlist for Plex/Audiobookshelf/Jellyfin
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
