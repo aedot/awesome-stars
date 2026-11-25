@@ -38,7 +38,7 @@
 
 ## 3d 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall ta
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - An eminently intuitive control panel for your house, as simple or complex as you need: lights and locks a tap away, each door and alarm in its room, on a live 2D or 3D map on a wall tablet. Shelly or 
 
 ## ai-agents 
 
@@ -79,7 +79,7 @@
 
 ## esp32 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall ta
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - An eminently intuitive control panel for your house, as simple or complex as you need: lights and locks a tap away, each door and alarm in its room, on a live 2D or 3D map on a wall tablet. Shelly or 
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 
@@ -93,7 +93,7 @@
 
 ## home-assistant 
 
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall ta
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) - An eminently intuitive control panel for your house, as simple or complex as you need: lights and locks a tap away, each door and alarm in its room, on a live 2D or 3D map on a wall tablet. Shelly or 
 - [hms-homelab/hms-baby-tracker](https://github.com/hms-homelab/hms-baby-tracker) - Home Assistant app/add-on for newborn care tracking — Ingress UI, ESP32 MQTT remote, native entities. Self-contained FastAPI + SQLite.
 - [aamat09/baby-tracker-suite](https://github.com/aamat09/baby-tracker-suite) - Baby care tracking suite: HA dashboards, n8n workflows, PostgreSQL, ESP32-C3 remote with 3D-printed enclosure
 - [johnkoht/hassio-config](https://github.com/johnkoht/hassio-config) - My Home Assistant Custom Configuration
